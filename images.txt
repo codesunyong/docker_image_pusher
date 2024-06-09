@@ -2,3 +2,4 @@ quay.io/argoproj/argocd:v2.11.3
 ghcr.io/dexidp/dex:v2.38.0
 ghcr.io/dexidp/dex:v2.38.0
 redis:7.0.14-alpine
+gcr.io/heptio-images/ks-guestbook-demo:0.2
