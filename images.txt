@@ -2,3 +2,7 @@ registry.k8s.io/ingress-nginx/controller:v1.10.1
 gcr.io/google-samples/kubernetes-bootcamp:v1
 docker.io/istio/pilot:1.22.1
 docker.io/istio/proxyv2:1.22.1
+docker.io/istio/examples-bookinfo-reviews-v1:1.19.1
+docker.io/istio/examples-bookinfo-productpage-v1:1.19.1
+docker.io/istio/examples-bookinfo-ratings-v1:1.19.1
+docker.io/istio/examples-bookinfo-details-v1:1.19.1
