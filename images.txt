@@ -1,1 +1,1 @@
-eipwork/kuboard-spray:latest-amd64
+registry.cn-shanghai.aliyuncs.com/kuboard-spray/kuboard-spray-resource:spray-v2.19.0c_k8s-v1.24.13_v2.12-amd64
