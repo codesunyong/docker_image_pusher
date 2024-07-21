@@ -1,1 +1,1 @@
-sonarqube
+eipwork/kuboard-spray:latest-amd64
