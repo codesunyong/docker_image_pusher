@@ -1,3 +1,1 @@
-nginx
-node
-python:3
+jenkins/jenkins:2.369
