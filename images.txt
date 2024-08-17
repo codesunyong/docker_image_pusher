@@ -1,1 +1,1 @@
-nginx:stable
+httpd:alpine
