@@ -1,1 +1,1 @@
-jenkins/jenkins:jdk17
+tomcat:8.5-jre10
