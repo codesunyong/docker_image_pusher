@@ -1,1 +1,4 @@
-registry.k8s.io/hpa-example
+quay.io/argoproj/argocd:v2.12.3
+ghcr.io/dexidp/dex:v2.38.0
+redis:7.0.15-alpine
+ghcr.io/dexidp/dex:v2.38.0
