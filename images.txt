@@ -1,4 +1,1 @@
-quay.io/argoproj/argocd:v2.12.3
-ghcr.io/dexidp/dex:v2.38.0
-redis:7.0.15-alpine
-ghcr.io/dexidp/dex:v2.38.0
+registry.cn-beijing.aliyuncs.com/kubesphereio/opensearch:2.6.0
