@@ -1,1 +1,1 @@
-kubesphere/metrics-server:v0.4.2
+yecc/gcr.io-google_samples-gb-worker:v3
