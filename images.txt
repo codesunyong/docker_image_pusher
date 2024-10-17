@@ -1,1 +1,1 @@
-kafka:2.2.0
+bitnami/kafka
