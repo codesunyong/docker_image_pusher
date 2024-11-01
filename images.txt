@@ -1,1 +1,1 @@
- quay.io/argoproj/argocd:v2.12.6
+registry.cn-shanghai.aliyuncs.com/kubesre01/demo:v1
