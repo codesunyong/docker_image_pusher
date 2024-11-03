@@ -1,1 +1,1 @@
-registry.cn-shanghai.aliyuncs.com/kubesre01/demo:v1
+alpine
