@@ -1,1 +1,1 @@
-alpine
+ gitlab-ce
