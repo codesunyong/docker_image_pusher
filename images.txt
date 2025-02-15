@@ -1,3 +1,7 @@
+tongduncloud/td-redis-manager:latest
+tongduncloud/td-redis-operator-ui:latest
+tongduncloud/redis-standby:1.0
+tongduncloud/sentinel-standby:latest
 tongduncloud/redis-cluster:0.2
-tongduncloud/redis-exporter:1.0
 tongduncloud/predixy:1.0
+tongduncloud/redis-exporter:1.0
