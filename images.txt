@@ -1,1 +1,3 @@
-tongduncloud/td-redis-operator:latest
+tongduncloud/redis-cluster:0.2
+tongduncloud/redis-exporter:1.0
+tongduncloud/predixy:1.0
