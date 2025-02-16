@@ -1,2 +1,2 @@
 bats/bats:v1.1.0
-grafana/logstash-output-loki
+grafana/logstash-output-loki:1.0.1
