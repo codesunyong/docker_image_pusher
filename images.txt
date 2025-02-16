@@ -1,1 +1,1 @@
-docker.io/bitnami/kubectl:1.25.3-debian-11-r8
+docker.io/bitnami/zookeeper:3.7.0-debian-10-r56
