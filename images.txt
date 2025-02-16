@@ -1,1 +1,2 @@
-docker.io/bitnami/zookeeper:3.7.0-debian-10-r56
+docker.io/bitnami/zookeeper:3.8.1-debian-11-r31
+docker.io/bitnami/bitnami-shell:11-debian-11-r114
