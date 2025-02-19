@@ -1,1 +1,1 @@
-mysqld-exporter
+prom/mysqld-exporter
