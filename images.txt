@@ -1,1 +1,1 @@
-prom/mysqld-exporter
+grafana:11.5.2
