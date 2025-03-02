@@ -1,3 +1,1 @@
-docker.io/kubesphere/snapshotclass-controller:v0.0.1
-docker.io/kubesphere/snapshot-controller:v4.2.1
-docker.io/kubesphere/pvc-autoresizer:v0.3.1
+maven:3-alpine
