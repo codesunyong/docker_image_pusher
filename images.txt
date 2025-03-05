@@ -1,5 +1,1 @@
-node:6.3
-ruby
-python:3.5.1
-php
-
+node:7-alpine
