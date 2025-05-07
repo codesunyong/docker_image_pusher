@@ -1,1 +1,1 @@
-timberio/vector:0.39.0-debian
+kubesphere/kubectl:v1.27.12
