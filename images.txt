@@ -1,2 +1,1 @@
-docker.io/kubesphere/whizard-telemetry-apiserver:v1.2.2
-
+timberio/vector:0.39.0-debian
