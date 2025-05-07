@@ -1,1 +1,1 @@
-kubesphere/kubectl:v1.27.12
+docker.io/grafana/loki:3.0.0
