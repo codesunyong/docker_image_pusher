@@ -1,1 +1,1 @@
-argoproj/rollouts-demo:yellow
+argoproj/rollouts-demo:red
