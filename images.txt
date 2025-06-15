@@ -1,1 +1,1 @@
-argoproj/rollouts-demo:red
+docker.io/istio/pilot:1.26.1
