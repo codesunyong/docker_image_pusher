@@ -1,1 +1,1 @@
-docker.io/istio/proxyv2:1.26.1
+quay.io/opstree/redis-operator:v0.22.1
